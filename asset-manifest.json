@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_67_Virtuozio/static/css/main.16259269.css",
-    "main.js": "/react_node_fs_67_Virtuozio/static/js/main.0b0ba234.js",
+    "main.js": "/react_node_fs_67_Virtuozio/static/js/main.15fed047.js",
     "static/js/332.8c6d562f.chunk.js": "/react_node_fs_67_Virtuozio/static/js/332.8c6d562f.chunk.js",
     "static/js/415.e70b7f75.chunk.js": "/react_node_fs_67_Virtuozio/static/js/415.e70b7f75.chunk.js",
     "static/js/354.fd0173ee.chunk.js": "/react_node_fs_67_Virtuozio/static/js/354.fd0173ee.chunk.js",
@@ -41,7 +41,7 @@
     "static/media/pawprint.svg": "/react_node_fs_67_Virtuozio/static/media/pawprint.74ae52dab39188dae1130c97aaee5b60.svg",
     "index.html": "/react_node_fs_67_Virtuozio/index.html",
     "main.16259269.css.map": "/react_node_fs_67_Virtuozio/static/css/main.16259269.css.map",
-    "main.0b0ba234.js.map": "/react_node_fs_67_Virtuozio/static/js/main.0b0ba234.js.map",
+    "main.15fed047.js.map": "/react_node_fs_67_Virtuozio/static/js/main.15fed047.js.map",
     "332.8c6d562f.chunk.js.map": "/react_node_fs_67_Virtuozio/static/js/332.8c6d562f.chunk.js.map",
     "415.e70b7f75.chunk.js.map": "/react_node_fs_67_Virtuozio/static/js/415.e70b7f75.chunk.js.map",
     "354.fd0173ee.chunk.js.map": "/react_node_fs_67_Virtuozio/static/js/354.fd0173ee.chunk.js.map",
@@ -69,6 +69,6 @@
   },
   "entrypoints": [
     "static/css/main.16259269.css",
-    "static/js/main.0b0ba234.js"
+    "static/js/main.15fed047.js"
   ]
 }
